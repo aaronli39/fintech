@@ -1,0 +1,51 @@
+body {
+    padding-top: 65px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: 400; */
+}
+
+/* div.p-2 {
+    border: 1px solid white;
+} */
+
+.hover {
+    background-color: darkblue;
+}
+
+.hover:hover {
+    background-color: #070f63;
+}
+
+div.bord {
+    min-height: 2em;
+    border-bottom: 2px solid lightblue;
+}
+
+.header {
+    padding-left: 9%;
+}
+
+.color {
+    background-color: #000c91;
+}
+
+.text-container {
+    position: relative;
+    top: 40%;
+}
+
+.text-container2 {
+    position: relative;
+    top: 36%;
+    max-width: 40%;
+}
+
+.hei {
+    min-height: 17em;
+}
+
+.bord2 {
+    border-top: 2px solid lightblue;
+    border-bottom: 2px solid lightblue;
+}

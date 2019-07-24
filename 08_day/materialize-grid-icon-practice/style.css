@@ -1,0 +1,9 @@
+/* CSS files add styling rules to your content */
+
+.row {
+  background-color: yellow;
+}
+
+.col {
+  border: solid 0.5px black;
+}
