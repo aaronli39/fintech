@@ -1,0 +1,28 @@
+.title {
+    font-size: 5rem;
+    font-weight: 800;
+}
+
+.list {
+    color: gray;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+a {
+    color: gray;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+.small {
+    color: gray;
+}
