@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Add Event{% endblock %}
+
+{% block content %}
+<h1>Community Events Board -- Add Event</h1>
+<form action="/addevent" method="POST">
+    <label for="eName">Enter event name</label>
+    <input type="text" name="eName">
+    <br>
+    <label for="eDate">Enter valid date</label>
+    <input type="text" name="eDate">
+    <button type="submit">Submit</button>
+</form>
+<br>
+<!--We will add a form to take in an event name and a date-->
+{% endblock %}
